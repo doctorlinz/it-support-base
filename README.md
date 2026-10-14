@@ -11,6 +11,7 @@
 
 - [Заминается бумага](printers/paper-jam.md)
 - [Захватывает два листа вместо одного](printers/two-sheets.md)
+- [Принтер не печатает](printers/not-printing.md)
 
 ## 💰 Кассовое оборудование
 
