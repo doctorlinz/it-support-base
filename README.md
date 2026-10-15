@@ -8,6 +8,7 @@
 - [Компьютер не включается](computers/wont-turn-on.md)
 - [Компьютер подвисает](computers/freezing.md)
 - [Компьютер медленно работает](computers/slow-performance.md)
+- [Синий экран](computers/blue-screen.md)
 
 ## 🖱️ Периферия
 
