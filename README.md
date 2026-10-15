@@ -14,6 +14,7 @@
 - [Не работает мышь](peripherals/mouse-not-working.md)
 - [Не работает клавиатура](peripherals/keyboard-not-working.md)
 - [Не работают USB-устройства](peripherals/usb-devices.md)
+- [Монитор не работает](peripherals/monitor-no-signal.md)
 
 ## 🖨️ Принтеры
 
