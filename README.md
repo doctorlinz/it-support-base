@@ -12,6 +12,7 @@
 ## 🖱️ Периферия
 
 - [Не работает мышь](peripherals/mouse-not-working.md)
+- [Не работает клавиатура](peripherals/keyboard-not-working.md)
 
 ## 🖨️ Принтеры
 
